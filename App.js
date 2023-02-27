@@ -100,7 +100,7 @@ export default function App() {
               >
                 <Image
                   style={styles.speakerButton}
-                  source={require("./assets/speaker.png")}
+                  source=""
                 />
               </TouchableOpacity>
             </View>
