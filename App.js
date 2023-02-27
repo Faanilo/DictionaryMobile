@@ -44,7 +44,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <ImageBackground
-        source={require("./assets/dictBkg.jpeg")}
+        source="https://cdn.wallpapersafari.com/16/74/56vWLQ.jpg"
         resizeMode="cover"
         style={{ flex: 1 }}
       >
