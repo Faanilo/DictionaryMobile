@@ -50,7 +50,7 @@ export default function App() {
       >
         <View style={{ flex: 0.2 }}>
           <Image
-            source={require("./assets/dict.png")}
+            source=""
             style={styles.imageDesign}
           />
         </View>
